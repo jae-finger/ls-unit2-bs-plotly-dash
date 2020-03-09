@@ -11,6 +11,8 @@ dash-bootstrap-components = "*"
 gunicorn = "*"
 plotly = "*"
 pandas = "*"
+sklearn = "*"
+dash-daq = "*"
 
 [requires]
 python_version = "3"
